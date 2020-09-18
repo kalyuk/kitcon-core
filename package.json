@@ -1,0 +1,26 @@
+{
+  "name": "@kitcon/core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalyuk/kitcon-core.git"
+  },
+  "author": "Dmitriy Kalyuk <kalyukdo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalyuk/kitcon-core/issues"
+  },
+  "homepage": "https://github.com/kalyuk/kitcon-core#readme",
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^8.3.0"
+  }
+}
